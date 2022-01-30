@@ -41,7 +41,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+![](assets/Simulator Screen Shot - iPhone 13 - 2022-01-29 at 17.42.57.png)!
+[](assets/Simulator Screen Shot - iPhone 13 - 2022-01-29 at 17.43.07.png)!
+[](assets/Simulator Screen Shot - iPhone 13 - 2022-01-29 at 17.43.30.png)
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This game was inspired by those Mini Hacking Games in GTA 5. The objective is to add the numbers up on top before the time runs out.
