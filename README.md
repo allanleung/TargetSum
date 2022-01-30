@@ -41,10 +41,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](https://github.com/allanleung/TargetSum/blob/master/assets/game01.png)!
-[](https://github.com/allanleung/TargetSum/blob/master/assets/game02.png)!
-[](https://github.com/allanleung/TargetSum/blob/master/assets/game03.png)
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![](https://github.com/allanleung/TargetSum/blob/master/assets/game01.png)
+![](https://github.com/allanleung/TargetSum/blob/master/assets/game02.png)
+![](https://github.com/allanleung/TargetSum/blob/master/assets/game03.png)
 
 This game was inspired by those Mini Hacking Games in GTA 5. The objective is to add the numbers up on top before the time runs out.
 
