@@ -30,7 +30,7 @@ class App extends React.Component {
           <Game
               key={this.state.gameId}
               onPlayAgain={this.resetGame}
-              randomNumberCount={9}
+              randomNumberCount={12}
               initialSeconds={20}/>
         </View>
     );

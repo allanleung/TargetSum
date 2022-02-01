@@ -23,7 +23,7 @@ class Game extends React.Component {
         .from({length: this.props.randomNumberCount})
         .map(() => 1 + Math.floor(10 * Math.random()));
     target = this.randomNumbers
-        .slice(0,this.props.randomNumberCount - Math.floor(Math.random() * 2) - 1)
+        .slice(0,this.props.randomNumberCount - 3)
         .reduce((acc,curr) => acc + curr, 0);
 
     shuffleRandomNumbers = shuffle(this.randomNumbers);
@@ -33,7 +33,7 @@ class Game extends React.Component {
     componentDidMount() {
         this.intervalId = setInterval(() =>{
             this.setState((prevState) => {
-                return { remainingSecond : prevState.remainingSecond - 1 }
+                return { remainingSecond : prevState.remainingSecond - 1}
             }, () => {
                 if(this.state.remainingSecond === 0) {
                     clearInterval(this.intervalId);
